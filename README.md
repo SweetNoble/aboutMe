@@ -1,4 +1,3 @@
-# aboutMe
 
 Hi, I'm Alyssa Adana! 👋
 
